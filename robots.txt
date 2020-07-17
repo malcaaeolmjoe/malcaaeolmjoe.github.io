@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://malcaaeolmjoe.github.io/sitemap.xml.gz
